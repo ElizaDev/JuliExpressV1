@@ -1,3 +1,8 @@
+# THIS PROJECT IS OUT OF DATE AND IS NO LONGER BEING UPDATED. PLEASE GO TO https://github.com/ElizaDev/JuliExpress TO ACCESS THE LATEST VERSION
+
+
+
+
 # JuliExpressV1
 
 Juli is a bot used to relay chat between Twitch and Discord. The bot is still very new and undeveloped. Expect many changes and features to come. Please follow my Trello board for upcoming features and progress.
